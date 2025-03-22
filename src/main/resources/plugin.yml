@@ -1,0 +1,5 @@
+name: MyFirstPlugin
+version: 1.0
+main: com.example.myfirstplugin.MyFirstPlugin
+api-version: 1.21.4
+description: A simple plugin that greets players.
